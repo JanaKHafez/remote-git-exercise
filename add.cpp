@@ -7,6 +7,6 @@ int main()
     cin >> x >> y;
     cout << "The result is: ";
     cout << x + y;
-    court << endl;
+    cout << endl;
     return 0;
 }
